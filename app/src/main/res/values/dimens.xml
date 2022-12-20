@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="shape">8dp</dimen>
+    <dimen name="body3">12sp</dimen>
+    <dimen name="title">16sp</dimen>
+    <dimen name="h6">20sp</dimen>
+</resources>
